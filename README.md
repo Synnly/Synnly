@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Synnly
 - 👀 I’m interested in game developing
-- 🌱 I’m currently learning pyhton and C#
+- 🌱 I’m currently learning python and C#
 - 📫 How to reach me : emanuelfernandes54@gmail.com 
 
 <!---
