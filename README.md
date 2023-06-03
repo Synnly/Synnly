@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Synnly
-- 👀 Interested in game developement
 - 🌱 Learning java and C
 - 📖 L2 in computer science
 <!---
